@@ -1,0 +1,15 @@
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/ament_index/resource_index/package_run_dependencies/reception_bot
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/ament_index/resource_index/parent_prefix_path/reception_bot
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/environment/ament_prefix_path.sh
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/environment/ament_prefix_path.dsv
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/environment/path.sh
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/environment/path.dsv
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/local_setup.bash
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/local_setup.sh
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/local_setup.zsh
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/local_setup.dsv
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/package.dsv
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/ament_index/resource_index/packages/reception_bot
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/cmake/reception_botConfig.cmake
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/cmake/reception_botConfig-version.cmake
+/home/gohar/reception_ws/src/reception_bot/install/reception_bot/share/reception_bot/package.xml
