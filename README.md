@@ -192,7 +192,7 @@ sudo apt install -y \
 ```bash
 mkdir -p ~/reception_ws/src
 cd ~/reception_ws/src
-git clone https://github.com/YOUR_USERNAME/reception_bot.git
+git clone https://github.com/Mechtech-Juniors/reception-bot-ros2.git
 cd ~/reception_ws
 colcon build --symlink-install
 source install/setup.bash
